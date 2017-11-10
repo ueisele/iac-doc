@@ -1,0 +1,9 @@
+= Load Balancers
+
+- HAProxy: http://www.haproxy.org/
+- Traefik: https://github.com/containous/traefik
+- Fabio: https://github.com/fabiolb/fabio
+
+== Documentation
+
+- Difference between proxy types: http://www.webupd8.org/2010/02/differences-between-3-types-of-proxy.html

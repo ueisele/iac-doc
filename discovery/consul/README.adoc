@@ -1,0 +1,15 @@
+= Consul
+
+- https://www.consul.io/
+
+== Documentation
+
+- DNS: https://www.consul.io/docs/agent/dns.html
+- DNS: https://blog.nimbusscale.com/2015/12/28/leveraging-consuls-dns-interface/
+
+== Integration
+
+- Marathon: https://github.com/allegro/marathon-consul
+- Marathon: https://github.com/CiscoCloud/marathon-consul
+- Mesos: https://github.com/mantl/mesos-consul
+- HAProxy: https://github.com/hashicorp/consul-template/blob/master/examples/haproxy.md

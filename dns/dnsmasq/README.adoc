@@ -1,0 +1,5 @@
+= Dnsmasq
+
+== Documentation
+
+- Wildcards: https://stackoverflow.com/questions/22313142/wildcard-subdomains-with-dnsmasq

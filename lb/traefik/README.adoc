@@ -1,0 +1,12 @@
+= Traefik
+
+- https://docs.traefik.io/
+- https://github.com/containous/traefik
+
+== Documentation
+
+- https://blog.codecentric.de/en/2017/09/traefik-modern-reverse-proxy/
+
+== Tutorial
+
+- http://training.play-with-docker.com/traefik-load-balancing/
