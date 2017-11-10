@@ -1,0 +1,17 @@
+version: '3.4'
+
+services:
+  whoami:
+    image: emilevauge/whoami
+    networks:
+      - web
+    labels:
+      traefik.backend: whoami
+      traefik.frontend.rule: Host:whoami.server.test
+    restart:
+      always
+
+networks:
+  web:
+    external:
+      name: traefik_webgateway
